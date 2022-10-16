@@ -1,0 +1,9 @@
+{
+    "triggerTaskOnSave.tasks": {
+        "ibis": [
+            "content/*.md",
+            "assets/cover.*",
+        ],
+    },
+    "triggerTaskOnSave.restart": true,
+}
